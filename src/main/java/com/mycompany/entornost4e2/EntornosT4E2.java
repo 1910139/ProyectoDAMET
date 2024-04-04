@@ -8,9 +8,12 @@ package com.mycompany.entornost4e2;
  *
  * @author franc
  */
-public class EntornosT4E2 {
+public class EntornosT4E2 
+{
 
-    public static void main(String[] args) {
+    public static void main(String[] args) 
+    {
         System.out.println("Hello World!");
+        System.out.println("Esto sale en pantalla");
     }
 }
